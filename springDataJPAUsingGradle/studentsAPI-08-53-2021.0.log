@@ -1,0 +1,4 @@
+2021-07-08 17:53:58,278 [restartedMain] INFO  c.e.s.SpringDataJpaUsingGradleApplication          : Starting SpringDataJpaUsingGradleApplication using Java 11.0.11 on LAPTOP-ALCCK1AQ with PID 11432 (C:\Users\himan\Downloads\springDataJPAUsingGradle\bin\main started by local user in C:\Users\himan\Downloads\springDataJPAUsingGradle) 
+2021-07-08 17:53:58,293 [restartedMain] INFO  c.e.s.SpringDataJpaUsingGradleApplication          : No active profile set, falling back to default profiles: default 
+2021-07-08 17:53:58,567 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor    : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable 
+2021-07-08 17:53:58,567 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor    : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG' 
